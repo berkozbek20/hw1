@@ -28,7 +28,7 @@ class ComplexNumber {
         // Karmaşık sayıların toplamını al
         ComplexNumber sum = num1.add(num2);
 
-        // Sonucu ekrana yazdır
+        // Sonucu ekrana yazdır.
         System.out.println("Toplam: " + sum);
     }
 }
